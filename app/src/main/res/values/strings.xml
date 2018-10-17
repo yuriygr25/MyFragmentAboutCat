@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyFragmentAboutCat</string>
+    <string name="str_fragment1">com.example.yura.myfragmentaboutcat.Fragment1</string>
+    <string name="str_fragment2">com.example.yura.myfragmentaboutcat.Fragment2</string>
+    <string-array name="cats">
+        <item>Просто кот</item>
+        <item>Рыжик - рыжий кот</item>
+        <item>Барсик болеет за Барселону</item>
+        <item>Мурзик выписывает Мурзилку</item>
+    </string-array>
+</resources>
